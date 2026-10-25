@@ -10,6 +10,15 @@
    "key": "kGqJZCawai6m666kqtL4YpQLcKtvqLvSQw7eEBBEZjCsGgBp+y6sNHYSLwAcA1vFVeyLncebmH3fmVkS",
    "name": "UI/z/xxNK+lRs8R280z3jlxGrvvmzbTz6I0qalEaCWcr",
    "added": "2026-10-25"
+  },
+  {
+   "id": "48e058c499e87a7fd2374a083f0a2ea53658e02d0610ba102b587a634edeacd1",
+   "role": "user",
+   "salt": "qlrZ+aY8UNForriBle03Uw==",
+   "iter": 600000,
+   "key": "GHMpTvh354KQHCgTBPhL9htJEmSB/mWluL2HNxJE26P130JonJ5TA0dcVFCFPlCO5BluUUMCSSmwADcn",
+   "name": "fAnagP1BgozAB7tFRlLlyaGaRHOEUruOl6SoMay1P5Q=",
+   "added": "2026-10-25"
   }
  ]
 }
